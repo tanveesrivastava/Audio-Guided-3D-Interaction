@@ -4,6 +4,8 @@
 
 ---
 
+https://github.com/user-attachments/assets/33fbe515-e368-4937-9358-eb74b72ef213
+
 ## 🚀 Overview
 
 This project presents an end-to-end pipeline for building a **real-time, LLM-powered conversational agent** that runs entirely **offline** on consumer-grade hardware. It integrates:
