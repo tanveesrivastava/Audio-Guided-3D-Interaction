@@ -108,5 +108,3 @@ offline-3d-llm-agent/
 - 🧪 Performance benchmarking across devices
 - 🔐 On-device user profile adaptation
 
----
-
