@@ -110,17 +110,6 @@ offline-3d-llm-agent/
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please open an issue or submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
-
----
 
 ## 🙌 Acknowledgments
 
