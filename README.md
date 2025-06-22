@@ -110,9 +110,3 @@ offline-3d-llm-agent/
 
 ---
 
-
-## 🙌 Acknowledgments
-
-- Inspired by the shift toward privacy-preserving, decentralized AI.
-- Thanks to open-source contributors from projects like Whisper.cpp, llama.cpp, and Coqui TTS.
-
