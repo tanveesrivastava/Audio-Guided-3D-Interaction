@@ -13,7 +13,6 @@ This project presents an end-to-end pipeline for building a **real-time, LLM-pow
 - On-device **speech-to-text (STT)**
 - A **quantized large language model (LLM)** for natural language understanding and generation
 - **Text-to-speech (TTS)** synthesis
-- A **3D avatar** with synchronized **lip movements**
 
 By eliminating reliance on cloud-based infrastructure, this system enables low-latency, privacy-preserving user interaction, particularly useful in remote, embedded, and bandwidth-constrained environments.
 
@@ -33,7 +32,6 @@ By eliminating reliance on cloud-based infrastructure, this system enables low-l
 - 🔊 Real-time speech input (STT)
 - 🧠 Natural language understanding via quantized LLM
 - 🗣️ Text-to-speech voice generation
-- 🧍 3D avatar with dynamic facial animation and lip sync
 - ⚙️ Fully offline operation — no internet or cloud required
 
 ---
@@ -51,7 +49,6 @@ By eliminating reliance on cloud-based infrastructure, this system enables low-l
 - 🧠 **LLM**: [GGUF-based quantized models](https://github.com/ggerganov/llama.cpp) (e.g., LLaMA, Mistral, Gemma)
 - 🗣️ **STT**: Whisper.cpp, Vosk, or Mozilla DeepSpeech (local)
 - 🔊 **TTS**: eSpeak NG, Coqui TTS, or Bark (offline)
-- 👤 **3D Avatar**: Unity/Unreal/Blender-based rendering with lip sync
 - ⚙️ **Programming Languages**: Python, C++, Unity C#
 
 ---
@@ -65,13 +62,6 @@ cd offline-3d-llm-agent
 ```
 
 > 📌 Detailed installation instructions for each module are available in the respective subfolders.
-
----
-
-## 🧪 Demo
-
-Coming soon! 👀  
-Check the [`demo/`](./demo) folder for sample recordings, avatar videos, and performance stats.
 
 ---
 
