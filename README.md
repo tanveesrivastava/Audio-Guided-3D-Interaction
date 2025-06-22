@@ -1,4 +1,4 @@
-# 🗣️ Offline 3D-Avatar-Based Conversational Agent Powered by On-Device LLM
+# 🗣️ Offline Conversational Agent Powered by On-Device LLM
 
 > Real-time, private, and cloud-free voice assistant with speech recognition, language understanding, TTS, and animated 3D avatar lip sync—fully operational on local hardware.
 
